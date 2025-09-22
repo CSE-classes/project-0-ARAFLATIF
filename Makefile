@@ -166,6 +166,7 @@ UPROGS=\
 	_ln\
 	_ls\
 	_mkdir\
+	_proj0\
 	_rm\
 	_sh\
 	_stressfs\
